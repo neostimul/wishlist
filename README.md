@@ -14,4 +14,5 @@ My wishlist for easiest presents
 8. Датчик движения в коридор и ванну
 9. Умные лампочки в коридор и ванну
 10. aqara hub
+11. [Кот-копилка](https://totoro-shop.ru/toilet-paper-holder-24)
 
