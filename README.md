@@ -15,3 +15,4 @@ My wishlist for easiest presents
 - [ ] Умные лампочки в коридор и ванну
 - [ ] aqara hub
 - [ ] [Кот-копилка](https://totoro-shop.ru/toilet-paper-holder-24)
+- [ ] Bluetooth колонка JBL или SONY?
