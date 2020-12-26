@@ -16,3 +16,4 @@ My wishlist for easiest presents
 - [ ] aqara hub
 - [ ] [Кот-копилка](https://totoro-shop.ru/toilet-paper-holder-24)
 - [ ] Bluetooth колонка JBL или SONY?
+- [ ] Точильный камень 3000 грит (лучше двусторонний 1000\3000)
