@@ -2,7 +2,7 @@
 My wishlist for easiest presents
 
 
-## List
+## To be presented
 
 - [ ] Термоусадка
 - [ ] Подстаканник в машину 1 din ([дребезжит, надо что-то получше](https://aliexpress.ru/item/4001271879105.html))
@@ -14,6 +14,10 @@ My wishlist for easiest presents
 - [ ] Датчик движения в коридор и ванну
 - [ ] Умные лампочки в коридор и ванну
 - [ ] aqara hub
-- [ ] [Кот-копилка](https://totoro-shop.ru/toilet-paper-holder-24)
+
 - [ ] Bluetooth колонка JBL или SONY?
 - [ ] Точильный камень 3000 грит (лучше двусторонний 1000\3000). Например [Samura](https://www.samura.ru/catalog/aksessuary_samura/kamni_tochilnye/kombinirovannye/scs_1300m/)
+- [ ] Кинетический песок
+
+## Presented
+- [x] [Кот-копилка](https://totoro-shop.ru/toilet-paper-holder-24)
