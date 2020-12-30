@@ -4,7 +4,6 @@ My wishlist for easiest presents
 
 ## To be presented
 
-- [ ] Термоусадка
 - [ ] Подстаканник в машину 1 din ([дребезжит, надо что-то получше](https://aliexpress.ru/item/4001271879105.html))
 - [ ] Зимние ушки ([например](https://ushkin-magazin.ru/catalog/modeli_180s_man/))
 - [ ] [E-ACE Автомобильный видеорегистратор](https://aliexpress.ru/item/32894922089.html)
@@ -20,4 +19,6 @@ My wishlist for easiest presents
 - [ ] Кинетический песок
 
 ## Presented
+
 - [x] [Кот-копилка](https://totoro-shop.ru/toilet-paper-holder-24)
+- [x] Термоусадка
