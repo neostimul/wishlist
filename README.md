@@ -17,6 +17,7 @@ My wishlist for easiest presents
 - [ ] Xiaomi bluetooth наушники [Вроде такие, но это не точно](https://market.yandex.ru/product--besprovodnye-naushniki-xiaomi-mi-true-wireless-earbuds-basic-s/771379005)
 - [ ] Точильный камень 3000 грит (лучше двусторонний 1000\3000). Например [Samura](https://www.samura.ru/catalog/aksessuary_samura/kamni_tochilnye/kombinirovannye/scs_1300m/)
 - [ ] Кинетический песок
+- [ ] Snatch block
 
 ## Presented
 
