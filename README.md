@@ -13,7 +13,7 @@ My wishlist for easiest presents
 - [ ] Датчик движения в коридор и ванну
 - [ ] Умные лампочки в коридор и ванну
 - [ ] aqara hub
-- [ ] Bluetooth колонка JBL или SONY?
+- [ ] Bluetooth колонка JBL или SONY (Sony srs xb2) примерно такого размера.
 - [ ] Xiaomi bluetooth наушники [Вроде такие, но это не точно](https://market.yandex.ru/product--besprovodnye-naushniki-xiaomi-mi-true-wireless-earbuds-basic-s/771379005)
 - [ ] Точильный камень 3000 грит (лучше двусторонний 1000\3000). Например [Samura](https://www.samura.ru/catalog/aksessuary_samura/kamni_tochilnye/kombinirovannye/scs_1300m/)
 - [ ] Кинетический песок
