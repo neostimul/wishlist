@@ -2,22 +2,21 @@
 My wishlist for easiest presents
 
 
-## To be presented
+## To be presented. Ordered
 
 - [ ] Паяльная станция [TS100](https://aliexpress.ru/item/32825753754.html) или вариант подешевле [SH72](https://aliexpress.ru/item/4000559692113.html) жало BC2 в обоих случаях
+- [ ] Точильный камень 3000 грит (лучше двусторонний 1000\3000). Например [Samura](https://www.samura.ru/catalog/aksessuary_samura/kamni_tochilnye/kombinirovannye/scs_1300m/)
+- [ ] [Оригинальный Многофункциональный молоток безопасности Nextool](https://aliexpress.ru/item/1005001483059623.html) или любой другой хорошо светящийся фонарик на магните для автомобиля (возможно лучше даже какой-то другой)
+- [ ] aqara hub
+- [ ] Датчик температуры и влажности (возможно с экранчиком) aqara
+- [ ] Датчик движения aqara
+- [ ] Умные лампочки aqara
+- [ ] Кинетический песок
+- [ ] Bluetooth колонка JBL или SONY (Sony srs xb2) примерно такого размера.
 - [ ] Подстаканник в машину 1 din ([дребезжит, надо что-то получше](https://aliexpress.ru/item/4001271879105.html))
 - [ ] Зимние ушки ([например](https://ushkin-magazin.ru/catalog/modeli_180s_man/))
-- [ ] [E-ACE Автомобильный видеорегистратор](https://aliexpress.ru/item/32894922089.html)
-- [ ] Xiaomi Mijia Smart car dvr видеорегистратор
-- [ ] [Оригинальный Многофункциональный молоток безопасности Nextool](https://aliexpress.ru/item/1005001483059623.html)
-- [ ] Датчик температуры и влажности (возможно с экранчиком)
-- [ ] Датчик движения в коридор и ванну
-- [ ] Умные лампочки в коридор и ванну
-- [ ] aqara hub
-- [ ] Bluetooth колонка JBL или SONY (Sony srs xb2) примерно такого размера.
-- [ ] Точильный камень 3000 грит (лучше двусторонний 1000\3000). Например [Samura](https://www.samura.ru/catalog/aksessuary_samura/kamni_tochilnye/kombinirovannye/scs_1300m/)
-- [ ] Кинетический песок
-- [ ] Snatch block
+- [ ] Xiaomi Mijia Smart car dvr видеорегистратор или [E-ACE Автомобильный видеорегистратор](https://aliexpress.ru/item/32894922089.html)
+- [ ] Snatch block???
 
 ## Presented
 
