@@ -7,7 +7,6 @@ My wishlist for easiest presents
 - [ ] Паяльная станция [TS100](https://aliexpress.ru/item/32825753754.html) или вариант подешевле [SH72](https://aliexpress.ru/item/4000559692113.html) жало BC2 в обоих случаях
 - [ ] Точильный камень 3000 грит (лучше двусторонний 1000\3000). Например [Samura](https://www.samura.ru/catalog/aksessuary_samura/kamni_tochilnye/kombinirovannye/scs_1300m/)
 - [ ] Курсы экстримального вождения или контраварийного вождения (на прокатной машине)
-- [ ] Ирригатор с баком для воды не на 1 раз использования
 - [ ] Датчик температуры и влажности (возможно с экранчиком) aqara
 - [ ] Датчик движения aqara
 - [ ] Умные лампочки yeelight
@@ -25,3 +24,4 @@ My wishlist for easiest presents
 - [x] Xiaomi bluetooth наушники [Вроде такие, но это не точно](https://market.yandex.ru/product--besprovodnye-naushniki-xiaomi-mi-true-wireless-earbuds-basic-s/771379005)
 - [x] [Оригинальный Многофункциональный молоток безопасности Nextool](https://aliexpress.ru/item/1005001483059623.html) или любой другой хорошо светящийся фонарик на магните для автомобиля (возможно лучше даже какой-то другой)
 - [x] aqara hub
+- [x] Ирригатор с баком для воды не на 1 раз использования
