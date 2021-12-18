@@ -12,6 +12,7 @@ My wishlist for easiest presents
 - [ ] Кинетический песок
 - [ ] Bluetooth колонка JBL или SONY (Sony srs xb2) примерно такого размера.
 - [ ] Зимние ушки ([например](https://ushkin-magazin.ru/catalog/modeli_180s_man/))
+- [ ] Ремень с зажимной пряжкой
 
 ## Presented
 
