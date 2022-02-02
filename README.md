@@ -4,15 +4,14 @@ My wishlist for easiest presents
 
 ## To be presented. Ordered
 
-- [ ] Паяльная станция [TS100](https://aliexpress.ru/item/32825753754.html) или вариант подешевле [SH72](https://aliexpress.ru/item/4000559692113.html) жало BC2 в обоих случаях
 - [ ] Точильный камень 3000 грит (лучше двусторонний 1000\3000). Например [Samura](https://www.samura.ru/catalog/aksessuary_samura/kamni_tochilnye/kombinirovannye/scs_1300m/)
 - [ ] Курсы контраварийного вождения (на прокатной машине)
 - [ ] Датчик температуры и влажности (возможно с экранчиком) aqara
 - [ ] Умные лампочки yeelight
+- [ ] Умный выключатель aqara (без подключения к 220В)
 - [ ] Кинетический песок
 - [ ] Bluetooth колонка JBL или SONY (Sony srs xb2) примерно такого размера.
 - [ ] Зимние ушки ([например](https://ushkin-magazin.ru/catalog/modeli_180s_man/))
-- [ ] Ремень с зажимной пряжкой
 
 ## Presented
 
@@ -23,3 +22,4 @@ My wishlist for easiest presents
 - [x] aqara hub
 - [x] Датчик движения aqara
 - [x] Ирригатор с баком для воды не на 1 раз использования
+- [x] Паяльная станция [TS100](https://aliexpress.ru/item/32825753754.html) или вариант подешевле [SH72](https://aliexpress.ru/item/4000559692113.html) жало BC2 в обоих случаях
