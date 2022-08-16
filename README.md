@@ -5,6 +5,7 @@ My wishlist for easiest presents
 ## To be presented. Ordered
 
 - [ ] Точильный камень 3000 грит (лучше двусторонний 1000\3000). Например [Samura](https://www.samura.ru/catalog/aksessuary_samura/kamni_tochilnye/kombinirovannye/scs_1300m/)
+- [ ] Кулинарная каменная Ступка с пестиком для специй
 - [ ] Курсы контраварийного вождения (на прокатной машине)
 - [ ] Датчик температуры и влажности (возможно с экранчиком) aqara
 - [ ] Умные лампочки yeelight
