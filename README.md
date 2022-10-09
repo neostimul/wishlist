@@ -11,6 +11,7 @@ My wishlist for easiest presents
 - [ ] Кинетический песок
 - [ ] Bluetooth колонка JBL или SONY (Sony srs xb2) примерно такого размера.
 - [ ] Зимние ушки ([например](https://ushkin-magazin.ru/catalog/modeli_180s_man/))
+- [ ] Мультиметр UNI-T UT61
 - [ ] Датчик температуры и влажности (возможно с экранчиком) aqara
 - [ ] Умные лампочки yeelight
 - [ ] Умный выключатель aqara (без подключения к 220В)
