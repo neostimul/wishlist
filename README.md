@@ -4,6 +4,7 @@ My wishlist for easiest presents
 
 ## To be presented. Ordered
 
+- [ ] Докстанция/Hub ([именно такую](https://www.aliexpress.com/item/1005004316858924.html))
 - [ ] Точильный камень 3000 грит (лучше двусторонний 1000\3000). Например [Samura](https://www.samura.ru/catalog/aksessuary_samura/kamni_tochilnye/kombinirovannye/scs_1300m/)
 - [ ] Микроскоп для пайки (электронный? сам еще не знаю какой)
 - [ ] Кулинарная каменная Ступка с пестиком для специй
