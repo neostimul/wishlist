@@ -6,20 +6,21 @@ My wishlist for easiest presents
 
 - [ ] Докстанция/Hub ([именно такую (Hagibis USB C Docking Station) Ultra версию](https://www.aliexpress.com/item/1005004316858924.html))
 - [ ] Электронный микроскоп ([например такой (Andonstar ADSM301)](https://www.aliexpress.com/item/32854690111.html))
-- [ ] Точильный камень 3000 грит (лучше двусторонний 1000\3000). Например [Samura](https://www.samura.ru/catalog/aksessuary_samura/kamni_tochilnye/kombinirovannye/scs_1300m/)
+(https://www.samura.ru/catalog/aksessuary_samura/kamni_tochilnye/kombinirovannye/scs_1300m/)
 - [ ] Микроскоп для пайки (электронный? сам еще не знаю какой)
 - [ ] Кулинарная каменная Ступка с пестиком для специй
-- [ ] Курсы контраварийного вождения (на прокатной машине)
+- [ ] Курсы контраварийного вождения (на прокатной машине, на русском)
 - [ ] Кинетический песок
 - [ ] Bluetooth колонка JBL или SONY (Sony srs xb2) примерно такого размера.
-- [ ] Зимние ушки ([например](https://ushkin-magazin.ru/catalog/modeli_180s_man/))
 - [ ] Мультиметр UNI-T UT61
 - [ ] Датчик температуры и влажности (возможно с экранчиком) aqara
 - [ ] Умные лампочки yeelight
 - [ ] Умный выключатель aqara (без подключения к 220В)
+- [ ] Точильный камень 3000 грит (лучше двусторонний 1000\3000). Например [Samura]
 
 ## Presented
 
+- [x] Зимние ушки ([например](https://ushkin-magazin.ru/catalog/modeli_180s_man/))
 - [x] [Кот-копилка](https://totoro-shop.ru/toilet-paper-holder-24)
 - [x] Термоусадка
 - [x] Xiaomi bluetooth наушники [Вроде такие, но это не точно](https://market.yandex.ru/product--besprovodnye-naushniki-xiaomi-mi-true-wireless-earbuds-basic-s/771379005)
