@@ -4,6 +4,10 @@ My wishlist for easiest presents
 
 ## To be presented. Ordered
 
+- [ ] Одеколон [Loewe 7 Cobalt](https://www.kuantokusta.pt/p/3453646/loewe-7-cobalt-pour-homme-eau-de-parfum-50ml)
+- [ ] Гитара
+- [ ] Синтезатор
+- [ ] Футболка с принтом [супа в виде волны](https://www.dropbox.com/s/crjnr6ab6ziew0w/product_166813_0_0_0.jpg?dl=0)
 - [ ] Докстанция/Hub ([именно такую (Hagibis USB C Docking Station) Ultra версию](https://www.aliexpress.com/item/1005004316858924.html))
 - [ ] Электронный микроскоп ([например такой (Andonstar ADSM301)](https://www.aliexpress.com/item/32854690111.html))
 (https://www.samura.ru/catalog/aksessuary_samura/kamni_tochilnye/kombinirovannye/scs_1300m/)
