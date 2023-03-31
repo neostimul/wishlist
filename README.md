@@ -1,5 +1,5 @@
 # Wishlist
-My wishlist for easiest presents
+My wishlist for the easiest presents
 
 
 ## To be presented. Ordered
