@@ -8,6 +8,7 @@ My wishlist for the easiest presents
 - [ ] Гитара
 - [ ] Синтезатор
 - [ ] Футболка с принтом [супа в виде волны](https://www.dropbox.com/s/crjnr6ab6ziew0w/product_166813_0_0_0.jpg?dl=0)
+- [ ] Маникюр
 - [ ] Мультиметр UNI-T UT61
 - [ ] Докстанция/Hub ([именно такую (Hagibis USB C Docking Station) Ultra версию](https://www.aliexpress.com/item/1005004316858924.html))
 - [ ] Электронный микроскоп ([например такой (Andonstar ADSM301)](https://www.aliexpress.com/item/32854690111.html))
