@@ -4,7 +4,6 @@ My wishlist for the easiest presents
 
 ## To be presented. Ordered
 
-- [ ] Одеколон [Loewe 7 Cobalt](https://www.kuantokusta.pt/p/3453646/loewe-7-cobalt-pour-homme-eau-de-parfum-50ml)
 - [ ] Гитара
 - [ ] Синтезатор
 - [ ] Футболка с принтом [супа в виде волны](https://www.dropbox.com/s/crjnr6ab6ziew0w/product_166813_0_0_0.jpg?dl=0)
@@ -22,6 +21,7 @@ My wishlist for the easiest presents
 
 ## Presented
 
+- [x] Одеколон [Loewe 7 Cobalt](https://www.kuantokusta.pt/p/3453646/loewe-7-cobalt-pour-homme-eau-de-parfum-50ml)
 - [x] Кинетический песок
 - [x] Зимние ушки ([например](https://ushkin-magazin.ru/catalog/modeli_180s_man/))
 - [x] [Кот-копилка](https://totoro-shop.ru/toilet-paper-holder-24)
