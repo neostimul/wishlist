@@ -11,11 +11,11 @@ My wishlist for the easiest presents
 - [ ] Мультиметр UNI-T UT61
 - [ ] Докстанция/Hub ([именно такую (Hagibis USB C Docking Station) Ultra версию](https://www.aliexpress.com/item/1005004316858924.html))
 - [ ] Робот пылесос со станцией самоочистки. Например XIAOMI LYDSTO W2
-- [ ] Электронный микроскоп ([например такой (Andonstar ADSM301)](https://www.aliexpress.com/item/32854690111.html))
+- [ ] Электронный микроскоп. Например ([такой (Andonstar ADSM301)](https://www.aliexpress.com/item/32854690111.html)), ([такой (Andonstar AD407)](https://www.aliexpress.com/item/4000026193895.html)) или такой ([такой (Andonstar AD409 Pro)](https://www.aliexpress.us/item/1005004829335320.html))
 - [ ] Курсы контраварийного вождения (на прокатной машине, на русском)
-- [ ] Датчик температуры и влажности (возможно с экранчиком) aqara
 - [ ] Bluetooth колонка JBL или SONY (Sony srs xb2) примерно такого размера.
 - [ ] Кулинарная каменная Ступка с пестиком для специй
+- [ ] Какая-нибудь красивая джезва для обычной кухонной плиты
 - [ ] Точильный камень 3000 грит (лучше двусторонний 1000\3000). Например [Samura](https://www.samura.ru/catalog/aksessuary_samura/kamni_tochilnye/kombinirovannye/scs_1300m/)
 - [ ] Умные лампочки yeelight
 - [ ] Умный выключатель aqara (без подключения к 220В)
