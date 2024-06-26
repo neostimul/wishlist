@@ -17,6 +17,7 @@ My wishlist for the easiest presents
 - [ ] Кулинарная каменная Ступка с пестиком для специй
 - [ ] Какая-нибудь красивая джезва для обычной кухонной плиты
 - [ ] Точильный камень 3000 грит (лучше двусторонний 1000\3000). Например [Samura](https://www.samura.ru/catalog/aksessuary_samura/kamni_tochilnye/kombinirovannye/scs_1300m/)
+- [ ] Карандаш Uni kuru toga (advance или другой)
 - [ ] Умные лампочки yeelight
 - [ ] Умный выключатель aqara (без подключения к 220В)
 
