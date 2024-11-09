@@ -5,7 +5,6 @@ My wishlist for the easiest presents
 ## To be presented. Ordered
 
 - [ ] Килт
-- [ ] Гитара. Ван лав конечно [Lava Me](https://www.lavamusic.com/pt) 
 - [ ] Синтезатор
 - [ ] Футболка с принтом [супа в виде волны](https://www.dropbox.com/s/crjnr6ab6ziew0w/product_166813_0_0_0.jpg?dl=0)
 - [ ] Мультиметр UNI-T UT61
@@ -25,6 +24,7 @@ My wishlist for the easiest presents
 
 ## Presented
 
+- [x] Гитара. Ван лав конечно [Lava Me](https://www.lavamusic.com/pt) 
 - [x] Маникюр
 - [x] Одеколон [Loewe 7 Cobalt](https://www.kuantokusta.pt/p/3453646/loewe-7-cobalt-pour-homme-eau-de-parfum-50ml)
 - [x] Кинетический песок
