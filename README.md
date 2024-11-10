@@ -9,6 +9,7 @@ My wishlist for the easiest presents
 - [ ] Футболка с принтом [супа в виде волны](https://www.dropbox.com/s/crjnr6ab6ziew0w/product_166813_0_0_0.jpg?dl=0)
 - [ ] Мультиметр UNI-T UT61
 - [ ] The Book. Как создать цивилизацию заново
+- [ ] Курсы для получения сертификата новичка дайвера PADI
 - [ ] Докстанция/Hub ([именно такую (Hagibis USB C Docking Station) Ultra версию](https://www.aliexpress.com/item/1005004316858924.html))
 - [ ] Робот пылесос со станцией самоочистки. Например XIAOMI LYDSTO W2
 - [ ] Электронный микроскоп. Например ([такой (Andonstar ADSM301)](https://www.aliexpress.com/item/32854690111.html)), ([такой (Andonstar AD407)](https://www.aliexpress.com/item/4000026193895.html)) или такой ([такой (Andonstar AD409 Pro)](https://www.aliexpress.us/item/1005004829335320.html))
