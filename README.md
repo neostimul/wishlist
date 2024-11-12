@@ -5,7 +5,7 @@ My wishlist for the easiest presents
 ## To be presented. Ordered
 
 - [ ] Килт
-- [ ] Синтезатор
+- [ ] Электронное фортепиано
 - [ ] Футболка с принтом [супа в виде волны](https://www.dropbox.com/s/crjnr6ab6ziew0w/product_166813_0_0_0.jpg?dl=0)
 - [ ] Мультиметр UNI-T UT61
 - [ ] The Book. Как создать цивилизацию заново
