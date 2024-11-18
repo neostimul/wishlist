@@ -6,10 +6,11 @@ My wishlist for the easiest presents
 
 - [ ] Килт
 - [ ] Электронное фортепиано
-- [ ] Футболка с принтом [супа в виде волны](https://www.dropbox.com/s/crjnr6ab6ziew0w/product_166813_0_0_0.jpg?dl=0)
+- [ ] plantagotchi
 - [ ] Мультиметр UNI-T UT61
 - [ ] The Book. Как создать цивилизацию заново
 - [ ] Курсы для получения сертификата новичка дайвера PADI
+- [ ] Футболка с принтом [супа в виде волны](https://www.dropbox.com/s/crjnr6ab6ziew0w/product_166813_0_0_0.jpg?dl=0)
 - [ ] Докстанция/Hub ([именно такую (Hagibis USB C Docking Station) Ultra версию](https://www.aliexpress.com/item/1005004316858924.html))
 - [ ] Робот пылесос со станцией самоочистки. Например XIAOMI LYDSTO W2
 - [ ] Магнитные наручные часы черные
