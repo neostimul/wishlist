@@ -6,6 +6,8 @@ My wishlist for the easiest presents
 
 - [ ] Килт
 - [ ] Электронное фортепиано
+- [ ] Мультиварка
+- [ ] Аэрогриль
 - [ ] plantagotchi
 - [ ] Мультиметр UNI-T UT61
 - [ ] The Book. Как создать цивилизацию заново
