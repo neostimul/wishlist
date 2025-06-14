@@ -1,8 +1,8 @@
 # Wishlist
-My wishlist for the easiest presents
+My wishlist for the easiest gifts
 
 
-## To be presented. Ordered
+## To be presented. Wished
 
 - [ ] Килт (а точнее юбка похожая на килт)
 - [ ] Электронное фортепиано
