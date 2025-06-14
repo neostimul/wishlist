@@ -8,6 +8,7 @@ My wishlist for the easiest presents
 - [ ] Электронное фортепиано
 - [ ] Мультиварка
 - [ ] Аэрогриль
+- [ ] блендер
 - [ ] plantagotchi
 - [ ] Мультиметр UNI-T UT61
 - [ ] The Book. Как создать цивилизацию заново
