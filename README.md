@@ -11,16 +11,14 @@ My wishlist for the easiest presents
 - [ ] блендер
 - [ ] VIWOODS AiPaper Mini
 - [ ] plantagotchi
-- [ ] Мультиметр UNI-T UT61
+- [ ] Мультиметр UNI-T UT61 (или какой-нибудь другой крутой)
 - [ ] The Book. Как создать цивилизацию заново
 - [ ] Курсы для получения сертификата новичка дайвера PADI
 - [ ] Футболка с принтом [супа в виде волны](https://www.dropbox.com/s/crjnr6ab6ziew0w/product_166813_0_0_0.jpg?dl=0)
-- [ ] Докстанция/Hub ([именно такую (Hagibis USB C Docking Station) Ultra версию](https://www.aliexpress.com/item/1005004316858924.html))
+~~- [ ] Докстанция/Hub ([именно такую (Hagibis USB C Docking Station) Ultra версию](https://www.aliexpress.com/item/1005004316858924.html))~~
 - [ ] Робот пылесос со станцией самоочистки. Например XIAOMI LYDSTO W2
-- [ ] Магнитные наручные часы черные
 - [ ] Курсы контраварийного вождения (на прокатной машине, на русском)
-- [ ] Bluetooth колонка JBL или SONY (Sony srs xb2) примерно такого размера.
-- [ ] Кулинарная каменная Ступка с пестиком для специй
+~~- [ ] Кулинарная каменная Ступка с пестиком для специй~~
 - [ ] Какая-нибудь красивая джезва для обычной кухонной плиты
 - [ ] Карандаш Uni kuru toga (advance или другой) или Penac PROTTI PRC 0.7 НВ с похожим механизмом
 
@@ -43,3 +41,4 @@ My wishlist for the easiest presents
 - [x] Датчик влажности 
 - [x] Ирригатор с баком для воды не на 1 раз использования
 - [x] Паяльная станция [TS100](https://aliexpress.ru/item/32825753754.html) или вариант подешевле [SH72](https://aliexpress.ru/item/4000559692113.html) жало BC2 в обоих случаях
+- [x] Bluetooth колонка JBL или SONY (Sony srs xb2) примерно такого размера.
