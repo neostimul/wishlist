@@ -6,8 +6,8 @@ My wishlist for the easiest presents
 
 - [ ] Килт (а точнее юбка похожая на килт)
 - [ ] Электронное фортепиано
-- [ ] Мультиварка
 - [ ] Аэрогриль
+- [ ] Мультиварка
 - [ ] блендер
 - [ ] VIWOODS AiPaper Mini
 - [ ] plantagotchi
