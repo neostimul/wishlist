@@ -9,6 +9,7 @@ My wishlist for the easiest presents
 - [ ] Мультиварка
 - [ ] Аэрогриль
 - [ ] блендер
+- [ ] VIWOODS AiPaper Mini
 - [ ] plantagotchi
 - [ ] Мультиметр UNI-T UT61
 - [ ] The Book. Как создать цивилизацию заново
