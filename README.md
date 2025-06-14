@@ -4,7 +4,7 @@ My wishlist for the easiest presents
 
 ## To be presented. Ordered
 
-- [ ] Килт
+- [ ] Килт (а точнее юбка похожая на килт)
 - [ ] Электронное фортепиано
 - [ ] Мультиварка
 - [ ] Аэрогриль
