@@ -6,12 +6,11 @@ My wishlist for the easiest gifts
 
 - [ ] Килт (а точнее юбка похожая на килт)
 - [ ] Электронное фортепиано
-- [ ] Аэрогриль (литров на 5, мб 4-6 хз)
 - [ ] ~~Мультиварка~~
 - [ ] ~~блендер~~
 - [ ] Соковыживалка, которая осилит яблоко и морковь (компактная, на сколько это возможно)
 - [ ] VIWOODS AiPaper Mini
-- [ ] Аниме подушка в полный рост. (для сна на боку, чтобы можно было ногу закинуть)
+- [ ] Аниме подушка в полный рост. (для сна на боку, чтобы можно было ногу закинуть). Можно с фоткой Вадима)
 - [ ] plantagotchi
 - [ ] Мультиметр UNI-T UT61 (или какой-нибудь другой крутой)
 - [ ] The Book. Как создать цивилизацию заново
@@ -27,6 +26,7 @@ My wishlist for the easiest gifts
 
 ## Presented
 
+- [x] Аэрогриль (литров на 5, мб 4-6 хз)
 - [x] Точильный камень 3000 грит (лучше двусторонний 1000\3000). Например [Samura](https://www.samura.ru/catalog/aksessuary_samura/kamni_tochilnye/kombinirovannye/scs_1300m/)
 - [x] Электронный микроскоп. Например ([такой (Andonstar ADSM301)](https://www.aliexpress.com/item/32854690111.html)), ([такой (Andonstar AD407)](https://www.aliexpress.com/item/4000026193895.html)) или такой ([такой (Andonstar AD409 Pro)](https://www.aliexpress.us/item/1005004829335320.html))
 - [x] Гитара. Ван лав конечно [Lava Me](https://www.lavamusic.com/pt) 
