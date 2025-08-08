@@ -16,7 +16,6 @@ My wishlist for the easiest gifts
 - [ ] The Book. Как создать цивилизацию заново
 - [ ] Курсы для получения сертификата новичка дайвера PADI
 - [ ] Фигурка Warhammer 40000. Что-то типа [такой](https://www.warhammer.com/es-ES/shop/Flash-Gitz), но уже собранная и расскрашенная. Важно чтобы прям крутецкая была, чтобы прям вау. НЕ роботов/дредноутов/титанов и прочую механизированную ересь. Может быть механикус норм, но лучше какого-нибудь орка или космодесантника или примархра (только лоялистов).
-- [ ] Футболка с принтом [супа в виде волны](https://www.dropbox.com/s/crjnr6ab6ziew0w/product_166813_0_0_0.jpg?dl=0)
 - [ ] ~~Докстанция/Hub ([именно такую (Hagibis USB C Docking Station) Ultra версию](https://www.aliexpress.com/item/1005004316858924.html))~~
 - [ ] Робот пылесос со станцией самоочистки. Например XIAOMI LYDSTO W2 или Roborock s8 pro ultra
 - [ ] Курсы контраварийного вождения (на прокатной машине, на русском)
@@ -27,6 +26,7 @@ My wishlist for the easiest gifts
 
 ## Presented
 
+- [x] Футболка с принтом [супа в виде волны](https://www.dropbox.com/s/crjnr6ab6ziew0w/product_166813_0_0_0.jpg?dl=0)
 - [x] Аэрогриль (литров на 5, мб 4-6 хз)
 - [x] Точильный камень 3000 грит (лучше двусторонний 1000\3000). Например [Samura](https://www.samura.ru/catalog/aksessuary_samura/kamni_tochilnye/kombinirovannye/scs_1300m/)
 - [x] Электронный микроскоп. Например ([такой (Andonstar ADSM301)](https://www.aliexpress.com/item/32854690111.html)), ([такой (Andonstar AD407)](https://www.aliexpress.com/item/4000026193895.html)) или такой ([такой (Andonstar AD409 Pro)](https://www.aliexpress.us/item/1005004829335320.html))
