@@ -1,5 +1,6 @@
 # Wishlist
 My wishlist for the easiest gifts
+! Please don't present to me any gift cards for shopping. Better nothing than this.
 
 
 ## To be presented. Wished
